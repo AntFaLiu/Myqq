@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e5a9143b-cef0-439d-8aa1-22fcb54cc6ab" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/uidsa" beforeDir="false" afterPath="$PROJECT_DIR$/uidsa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大声点" beforeDir="false" afterPath="$PROJECT_DIR$/大声点" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,8 +39,21 @@
       <file leaf-file-name="uidsa" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uidsa">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="大声点" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/大声点">
+          <provider selected="true" editor-type-id="text-editor">
             <state>
+<<<<<<< Updated upstream
               <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+=======
+              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -55,6 +73,7 @@
       <list>
         <option value="$PROJECT_DIR$/jaca" />
         <option value="$PROJECT_DIR$/sads" />
+        <option value="$PROJECT_DIR$/大声点" />
         <option value="$PROJECT_DIR$/uidsa" />
       </list>
     </option>
@@ -66,10 +85,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-528" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1652" />
-    <option name="height" value="1057" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1005" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -173,7 +191,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="1294000" />
+=======
+    <option name="totallyTimeSpent" value="1445000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="701" extended-state="6" />
@@ -236,6 +258,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/jaca">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -254,6 +277,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+=======
+    <entry file="file://$PROJECT_DIR$/大声点">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -273,6 +302,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/uidsa">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state>
           <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
@@ -281,6 +311,13 @@
     <entry file="file://$PROJECT_DIR$/大声点">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+=======
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> Stashed changes
   </component>
   <component name="masterDetails">
     <states>
